@@ -6,8 +6,8 @@
 #include <Arduino_JSON.h>
 
 
-const char* ssid = "AndroidAP";
-const char* password = "@136313631363@";
+const char* ssid = "your_ssid";
+const char* password = "your router password";
 
 
 
