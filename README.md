@@ -1,2 +1,2 @@
 # control_gpio
-An electronica project 
+## look the *function.php* up as the main file to handle server application 
